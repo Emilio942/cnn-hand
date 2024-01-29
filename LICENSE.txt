@@ -1,0 +1,11 @@
+MIT License
+
+Copyright (c) [Mo 29. Jan 18:09:50 CET 2024] [Emilio Frittrang]
+
+Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen Dokumentationsdateien (die "Software") erhält, die Erlaubnis erteilt, sie uneingeschränkt zu nutzen, inklusive und ohne Ausnahme mit dem Recht, sie zu verwenden, zu kopieren, zu verändern, zusammenzuführen, zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder zu verkaufen, und Personen, denen die Software bereitgestellt wird, diese Rechte zu verschaffen, unter den folgenden Bedingungen:
+
+Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder wesentlichen Teilen der Software beizulegen.
+
+DIE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE ZUR VERFÜGUNG GESTELLT, EINSCHLIESSLICH DER GARANTIE ZUR BENUTZUNG FÜR DEN VORGESEHENEN ODER EINEN BESTIMMTEN ZWECK SOWIE JEGLICHER RECHTSVERLETZUNG, JEDOCH NICHT DARAUF BESCHRÄNKT. IN KEINEM FALL SIND DIE AUTOREN ODER COPYRIGHTINHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER SONSTIGE VERBINDLICHKEITEN HAFTBAR, OB IN EINEM VERTRAG, EINEM DELIKT ODER ANDERWEITIGEN KLAGEFÄLLEN, AUS ODER IM ZUSAMMENHANG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN GESCHÄFTEN IN DER SOFTWARE.
+
+Der vollständige Text der Lizenz ist auch unter https://opensource.org/licenses/MIT verfügbar.
