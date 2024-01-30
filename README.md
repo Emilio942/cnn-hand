@@ -14,4 +14,7 @@ Um dieses Projekt auszuführen, installiere zuerst die erforderlichen Abhängigk
 
 ```bash
 pip install -r requirements.txt
+python ./Datensammlungsteil.py
+
+
 python ./frrnpy
