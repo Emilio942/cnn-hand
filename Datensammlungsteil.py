@@ -9,8 +9,8 @@ def get_img_count(folder):
     return len([name for name in os.listdir(folder) if os.path.isfile(os.path.join(folder, name))])
 
 # Pfade für die Bildspeicherung
-hand_dir = '/home/emilio/Dokumente/ai/frnn/hand_images'
-no_hand_dir = '/home/emilio/Dokumente/ai/frnn/no_hand_images'
+hand_dir = 'hand_images'
+no_hand_dir = 'no_hand_images'
 
 # Zähle vorhandene Bilder, um den img_counter zu initialisieren
 img_counter_hand = get_img_count(hand_dir)

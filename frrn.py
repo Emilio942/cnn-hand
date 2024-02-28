@@ -59,8 +59,8 @@ transform = transforms.Compose([
 ])
 
 # Erstelle den Datensatz und DataLoader
-hand_dir = '/home/emilio/Dokumente/ai/frnn/to/hand_images'
-no_hand_dir = '/home/emilio/Dokumente/ai/frnn/to/no_hand_images'
+hand_dir = 'hand_images'
+no_hand_dir = 'no_hand_images'
 dataset = HandDataset(hand_dir, no_hand_dir, transform=transform)
 trainloader = DataLoader(dataset, batch_size=32, shuffle=True)
 
@@ -68,7 +68,7 @@ trainloader = DataLoader(dataset, batch_size=32, shuffle=True)
 model = SimpleCNN()
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
-model_save_path = '/home/emilio/Dokumente/ai/frnn/model.pth'
+model_save_path = 'model.pth'
 
 # Überprüfen, ob das gespeicherte Modell existiert
 if os.path.isfile(model_save_path):
@@ -96,7 +96,7 @@ for epoch in range(epochs):
 print('Training abgeschlossen')
 
 # Speichere das trainierte Modell
-model_save_path = '/home/emilio/Dokumente/ai/frnn/model.pth'
+model_save_path = 'model.pth'
 torch.save(model.state_dict(), model_save_path)
 print(f"Modell gespeichert unter {model_save_path}")
 
